@@ -1,0 +1,38 @@
+{
+  "packages": [
+    "com.cleanmaster.mguard",
+    "com.dianxinos.optimizer",
+    "com.qihoo.security",
+    "com.jb.security",
+    "com.duapps.cleaner",
+    "com.super.cleaner",
+    "com.noxgroup.app.cleaner",
+    "com.flashlight.bright.led",
+    "com.hawk.android.browser",
+    "com.apusapps.launcher",
+    "com.lionmobi.powerclean",
+    "com.mobogeneie.markets",
+    "com.super.bcleaner",
+    "com.phone.cleaner.booster",
+    "com.antivirus.cleaner.booster",
+    "com.fast.clean.booster",
+    "com.rocket.cleaner",
+    "com.virus.cleaner.antivirus"
+  ],
+  "keywords": [
+    "adware",
+    "cleaner",
+    "booster",
+    "antivirus.free",
+    "ram.master",
+    "junk.clean",
+    "battery.saver",
+    "super.clean",
+    "virus.clean",
+    "phone.cool",
+    "cpu.cooler",
+    "flashlight.led",
+    "spyware",
+    "trojan"
+  ]
+}
